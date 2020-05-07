@@ -2,7 +2,7 @@
 	"landing": {
 		"firstName": "Christian H.",
 		"lastName": "Holland",
-		"phoneNumber": "+49-17643449810",
+		"phoneNumber": "+49-176 4344 9810",
 		"bio": "I am a PhD student at the Saezlab at Heidelberg University and part of the BMBF funded reseach network LiSyM (Liver System Medicine). My work focuses on the development and application of functional analysis tools on transcriptomic data, aiming to acquire mechanistic insight into chronic liver diseases. While I was initially a biologist by training I see myself nowadays as a data scientist tackling biomedical challenges. For most of my projects I rely on the statistical language R accompanied with the great packages from tidyverse. To make my reseach results easily accessible for the broad scientific community I enjoy developing intuitive web applications using R-Shiny.",
     "email": "cholland2408@gmail.com",
     "linkedin": "https://www.linkedin.com/in/christian-holland-88848611a/",
