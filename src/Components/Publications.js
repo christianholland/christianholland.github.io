@@ -16,7 +16,7 @@ class Publications extends Component {
         <div className="w-100">
           <h2 className="mb-5">Publications</h2>
           <ul className="fa-ul mb-0">
-	  <p> A regularily updated list of publications and citations is available on my <a href="https://scholar.google.com/citations?user=h_y2uTwAAAAJ&hl=de">Google Scholar profile</a>.</p>
+	  <p> A regularly updated list of publications and citations is available on my <a href="https://scholar.google.com/citations?user=h_y2uTwAAAAJ&hl=de">Google Scholar profile</a>.</p>
           {
             this.publications.map((data, index) => (
               <li key={index}>
