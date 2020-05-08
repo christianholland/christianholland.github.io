@@ -3,3 +3,4 @@ node_modules/
 *.Rproj
 README.html
 .Rhistory
+build/
