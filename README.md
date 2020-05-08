@@ -1,6 +1,9 @@
 # Portfolio
 
+<!-- badges: start -->
 [![Build Status](https://travis-ci.com/christianholland/christianholland.github.io.svg?branch=master)](https://travis-ci.com/christianholland/christianholland.github.io)
+![GitHub](https://img.shields.io/github/license/christianholland/christianholland.github.io)
+<!-- badges: end -->
 
 ### Development and Deployment
 
